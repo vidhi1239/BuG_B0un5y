@@ -1,5 +1,5 @@
 Sublist3r :- is used for finding subdomain of targeting domain.
     COMMAND:- sublist3r -d tatget.com (-d stands for domain)
 
-FFUF :- its web fuzzing tool used for fuzzing
+ffuf :- its web fuzzing tool used for fuzzing
   COMMAND :-ffuf -u https:// target.com /fuff -w weblist.com
