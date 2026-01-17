@@ -1,5 +1,14 @@
+Burp suit:- is a tool used to find vulnerabilities in web applications and now is also used in testing mobile applications and API testing
+        3 Editions are available so far 1) Burp Suite Enterprise Edition
+                                        2) Burp suite professional 
+                                        3) Burp Suite Community Edition
+  it can be installed in all OS but you gotta make sure that the device has available java run time environment.
+
+
 Sublist3r :- is used for finding subdomain of targeting domain.
     COMMAND:- sublist3r -d tatget.com (-d stands for domain)
 
 ffuf :- its web fuzzing tool used for fuzzing
   COMMAND :- ffuf -u https:// target.com /fuff -w weblist.com 
+
+in teasing 
